@@ -1,0 +1,7 @@
+{
+  "name": "ionTextareaScrollAssist",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
